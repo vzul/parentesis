@@ -1,2 +1,2 @@
-# parentesis
+# Paréntesis
 Paréntesis
